@@ -193,7 +193,7 @@ Step 3:
     ```
 
 ### CDE Interactive Session Setup
-
+This will be covered in details in [3.3 Using CDE Interactive Session](/README.md#33-using-cde-interactive-session)
 
 For further information on the CLI please visit the [CDE Documentation](https://docs.cloudera.com/data-engineering/cloud/cli-access/topics/cde-cli.html)
 
