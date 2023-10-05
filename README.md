@@ -357,7 +357,8 @@ Python Environment: cde_hol_python
 ```
 >**Note**  
 >Job 04_Sales_Report uses the Quinn Python library. The methods are implemented in utils.py which is loaded via the File Resource  
->![alt text](/img/cde_jobs_11.png)
+
+![alt text](/img/cde_jobs_11.png)
 
 
 >**Note**  
