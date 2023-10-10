@@ -239,7 +239,7 @@ Upload all files from the `cde_spark_jobs` folder.
 When you are done, ensure that the following files are located in your File Resource:
 
 ```
-01_Pre_Setup.py
+01_Setup.py
 02_EnrichData_ETL.py
 03_Spark2Iceberg.py
 04_Sales_Report.py
