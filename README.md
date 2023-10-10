@@ -170,6 +170,12 @@ Step 1: Download the CLI Client:
 4. Click the link under CLI TOOL to download the CLI client.
 5. Change the permissions on the downloaded cde file to make it executable:
 
+On Mac:
+```
+chmod +x cde
+xattr -d com.apple.quarantine cde
+```
+
 Step 2: 
 1. On the host with the CLI client, create or edit the configuration file at ```~/.cde/config.yaml```. You can create multiple profiles in the ```~/.cde/config.yaml``` file and can be used while running commands.
 
