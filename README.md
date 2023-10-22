@@ -161,7 +161,7 @@ To manually install the CLI in your local machine follow the steps below:
 ![alt text](/img/cli_download.png)
 
 >**Note**  
->The following steps assume that you have `bash` shell. If you are running on Windows, ensure to have Ubuntu on [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)  to access the shell or [Git Bash](https://git-scm.com/download/win)
+>The following steps assume that you have `bash` shell. If you are running on Windows, ensure to have Ubuntu on [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)  to access the shell or [Git Bash](https://git-scm.com/download/win) and follow this [guide](https://community.cloudera.com/t5/Community-Articles/Setup-CDE-CLI-with-Git-Bash-on-Windows/ta-p/312808) for setting up the configuration.
 
 Step 1: Download the CLI Client:
 1. Navigate to the Cloudera Data Engineering Overview page by clicking the Data Engineering tile in the Cloudera Data Platform (CDP) management console.
